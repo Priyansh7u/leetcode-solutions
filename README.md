@@ -20,4 +20,5 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
