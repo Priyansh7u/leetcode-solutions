@@ -25,6 +25,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0016-3sum-closest](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Greedy
 |  |
 | ------- |
