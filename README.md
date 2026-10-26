@@ -34,6 +34,7 @@
 | [0038-count-and-say](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0046-permutations](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -108,6 +110,7 @@
 | [0036-valid-sudoku](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0016-3sum-closest](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Backtracking
