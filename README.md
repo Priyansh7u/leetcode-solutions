@@ -23,11 +23,13 @@
 | [0014-longest-common-prefix](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Math
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
@@ -106,4 +109,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
