@@ -45,6 +45,7 @@
 | [0042-trapping-rain-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Math
@@ -92,6 +93,7 @@
 | [0048-rotate-image](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Merge Sort
 |  |
 | ------- |
