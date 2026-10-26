@@ -14,6 +14,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0010-regular-expression-matching](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Math
@@ -73,6 +75,7 @@
 | [0039-combination-sum](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -138,6 +141,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -199,4 +203,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
