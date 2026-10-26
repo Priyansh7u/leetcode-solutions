@@ -29,12 +29,14 @@
 | [0022-generate-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Math
@@ -120,11 +122,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
