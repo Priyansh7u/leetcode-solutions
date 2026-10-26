@@ -43,6 +43,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Math
@@ -81,6 +82,7 @@
 | [0040-combination-sum-ii](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
