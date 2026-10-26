@@ -13,6 +13,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0016-3sum-closest](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0031-next-permutation) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
