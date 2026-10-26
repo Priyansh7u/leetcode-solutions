@@ -22,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +96,12 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Priyansh7u/https-github.com-Priyansh7u-leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
